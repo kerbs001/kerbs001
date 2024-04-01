@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- ✌ Hi, I'm Kerby! 
+- 👷 I'm a licensed civil engineer who is aspiring to be a future software engineer.
+- 🌱 I'm currently learning Python and hopefully expand into more complex languages such as Java and C/C++.
+- 📫 You can reach me through: https://www.linkedin.com/in/kerbyrubinas
 <!--
 **kerbs001/kerbs001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
